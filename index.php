@@ -8,7 +8,7 @@
     <title>Sysweb</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-dark bg-info">
+<nav class="navbar navbar-expand-lg navbar-dark bg-success">
   <a class="navbar-brand" href="#">SysWeb</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
     <span class="navbar-toggler-icon"></span>
@@ -39,7 +39,7 @@
     </ul>
     <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
-      <button class="btn btn-secondary my-2 my-sm-0" type="submit">Pesquisar</button>
+      <button class="btn btn-danger my-2 my-sm-0" type="submit">Logout</button>
     </form>
   </div>
 </nav>
